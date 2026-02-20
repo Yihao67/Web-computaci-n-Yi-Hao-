@@ -11,7 +11,7 @@
  
 <!-- MENÚ -->
 <nav>
-<a href="#inicio">Inicio</a>
+<a href="Index.html">Inicio</a>
 <a href="#sobre">Sobre mí</a>
 <a href="#contacto">Contacto</a>
 </nav>
